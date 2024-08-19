@@ -1,7 +1,7 @@
 # E-Commerce-Datawarehouse Using Databricks 🛒
-The "E-Commerce Data Warehouse Using Databricks" project involves the design and implementation of a robust data warehouse solution tailored for e-commerce data. Utilizing Databricks, the project focuses on ingesting and organizing data into a series of medallion tables, which are structured to enhance data quality and facilitate efficient analytics. The medallion architecture consists of bronze, silver, and gold layers, progressively refining raw data into curated, high-value insights. This structured approach supports scalable data processing and analytics, enabling in-depth business intelligence and reporting for e-commerce operations.
+The "E-Commerce Data Warehouse Using Databricks" project involves designing and implementing a robust data warehouse solution tailored for e-commerce data. Utilizing Databricks, the project focuses on ingesting and organizing data into a series of medallion tables structured to enhance data quality and facilitate efficient analytics. The medallion architecture consists of bronze, silver, and gold layers, progressively refining raw data into curated, high-value insights. This structured approach supports scalable data processing and analytics, enabling in-depth business intelligence and reporting for e-commerce operations.
 
-## Architecrure Diagrma
+## Architecture Diagram
 
 <p><img src="Resource/Architecture diagram.png" width="60%"></p>
 
